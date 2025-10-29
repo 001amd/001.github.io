@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name ="viewport" content="width=device-width, initial-scale=1">
+    <title>MY PORTFOLIO</title>
+</head>
+<body>
+  <HEAder>
+    <nav>
+      <ul>
+        <li><a href="#aboutme"></a>
+        <li><a href="#skills"></a>   
+        <li><a href="#projects"></a>
+        <li><a href="#contact"></a>
+        </ul>
+    </nav>
+  </HEAder>     
+<section id="hero"> 
+    <h1>hello my name [joob]</h1>   
+    <p>aspiring webdevoloper</p>
+    <img src="profile.jpg" alt="https://unsplash.com/photos/a-man-sitting-in-a-chair-using-a-laptop-computer-j13q31q_H3o> width="200" height="200">
+</section>    
+<section id="about">
+<h2>ABOUT ME </h2>
+<p>i am a webdevoloper currently in the procces of building his knowledge, and absorbing as much new information due to the constante hunger to implifie my being </p>
+</section>
+<section id="skills">
+ <h2>SKILLS</h2>
+   <ul>html5</ul>
+   <ul>css</ul>
+   <ul>javascript</ul>
+</section>
+<section id="projects">
+    <h2>my projectes </h2>
+    <article>
+        <h3>cat photo app</h3>  
+        <p>my first attemte on building using html wich was a cute gallery of the dearest creature to man </p>
+        <a href="https://example.com/cat-photo-app">view project</a>
+    </article>
+</section>
+<section id="contact">
+    <h2>get in touch  </h2>
+    <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+    <p>GitHub: <a href="https://github.com/yourusername">github.com/yourusername</a></p> 
+</section>
+<footer>
+    <p>&copy; 2024 Joob's Portfolio</p>
+</footer>
+
+
+
+
+
+
+        </body>
+    </html>
